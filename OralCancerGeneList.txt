@@ -1,0 +1,1097 @@
+Gene Symbol                              Gene description
+References for Oral cancer	References for Head & Neck cancer
+ ABCB4            P-glycoprotein 3 / Multidrug resistance
+PubMed References	
+PubMed References
+ ABCB1            ATP-binding cassete, subfamily B, member 1
+PubMed References
+PubMed References
+ ABL1             Abelson murine leukemia
+PubMed References
+PubMed References
+ ACTB             Actin beta
+PubMed References
+PubMed References
+ ACTG1            Actin, gamma 1
+PubMed References
+PubMed References
+ AKR1C1           Aldo-keto reductase 1
+PubMed References
+PubMed References
+ AKT3             v-akt murine thymoma viral oncogene homolog
+PubMed References
+PubMed References
+ ALB              Serum albumin
+PubMed References
+PubMed References
+ ALDH10           Aldehyde dehydrogenase
+PubMed References
+PubMed References
+ ALDH5A1          Aldehyde dehydrogenase 5 family, member A1
+PubMed References
+PubMed References
+ ALDH8            Aldehyde dehydrogenase
+PubMed References
+PubMed References
+ ANXA1            Annexins
+PubMed References
+PubMed References
+ ANXA2            Annexins
+PubMed References
+PubMed References
+ ANXA5            Annexins
+PubMed References
+PubMed References
+ APBA1            Amyloid beta(A4)precusor protein binding,family A,member 1
+PubMed References
+PubMed References
+ APC              Adenomatous polyposis coli
+PubMed References
+PubMed References
+ APOL1            Apolipoprotein L, 1
+PubMed References
+PubMed References
+ AREG             Amphiregulin
+PubMed References
+PubMed References
+ ARHGDIB          RHO GDP dissociation inhibitor beta
+PubMed References
+PubMed References
+ APOL2            Apolipoprotein L, 2
+PubMed References
+PubMed References
+ ATP2A2           ATPase type 2
+PubMed References
+PubMed References
+ ATP5B            ATP Synthase beta chain
+PubMed References
+PubMed References
+ AURKA            Aurora Kinase A
+PubMed References
+PubMed References
+ AURKB            Auroara Kinase B
+PubMedReferences          
+PubMed References          
+ AXIN1            Axis inhibitor 1
+PubMed References
+PubMed References
+ BAG1             Bcl-2 associated athanogene
+PubMed References
+PubMed References
+ BAT1             HLA-B associated transcript 1
+PubMed References
+PubMed References
+ Bax              BCL2-associated X protein
+PubMed References
+PubMed References
+ BCL2             B-cell CLL/lymphoma 2
+PubMed References
+PubMed References
+ BCL2L1           BCLX
+PubMed References
+PubMed References
+ BF               B-factor, properdin
+PubMed References
+PubMed References
+ BIRC5            Survivin
+PubMed References
+PubMed References
+ BLVRB            Biliverdin reductase B/ Flavin reductase
+PubMed References
+PubMed References
+ BMI1             BMI-1 polycomb ring-finger oncogne
+PubMed References
+PubMed References
+ BSG              Basigin
+PubMed References
+PubMed References
+ BRAF             Murine sarcoma viral oncogene homolog B1
+PubMed References	PubMed References
+ C3               Complement component 3
+PubMed References
+PubMed References
+ CA2              Carbonic anhydrase 2
+PubMed References
+PubMed References
+ CAV1             Caveolin 1
+PubMed References
+PubMed References
+ CCND1            Cyclin D1 (PRAD1: parathyroid adenomatosis 1)
+PubMed References
+
+PubMed References
+
+ CCNL1            Cyclin L
+PubMed References
+PubMed References
+ CD1A             CD1A antigen, a polypeptide
+PubMed References
+PubMed References
+ CD44             CD44 antigen (Indian blood group)
+PubMed References
+PubMed References
+ CDC2             Cell division control protein 2
+PubMed References	PubMed References
+ CDH1             E-Cadherin
+PubMed references
+PubMed references
+ CDH17            Cadherin 17
+PubMed References
+PubMed References
+ CDH2             Cadherin 2, type 1, N-Cadherin{neuronal}
+PubMed References
+PubMed References
+ CDH3             cadherin 3, type 1, P-cadherin {placental
+PubMed References
+PubMed References
+ CDK4             Cyclin-dependent kinase 4
+PubMed References
+PubMed References
+ CDK6             Cyclin-dependent kinase 6
+PubMed References
+PubMed References
+ CDKN1C           Cyclin-dependent kinase inhibitor 1C
+PubMed References	PubMed References
+ CDKN2C           Cyclin-dependent kinase inhibitor 2C
+PubMed References	PubMed References
+ CEACAM6          Carcinoembryonic antigen-related cell adhesion molecule 6
+PubMed References
+PubMed References
+ CES2             Carboxylesterase 2
+PubMed References
+PubMed References
+ CFL1             Cofilin 1
+PubMed References
+PubMed References
+ CHES1            Checkpoint suppressor 1
+PubMed References
+PubMed References
+ CHKA             Choline kinase alpha
+PubMed References
+PubMed References
+ CKM              Creatin kinase m-chain
+PubMed References
+PubMed References
+ CLD17           Claudin 17
+PubMed References
+PubMed References
+ CLU              Clusterin
+PubMed References
+PubMed References
+ COL1A2           Collagen type 1 alpha 2
+PubMed References
+PubMed References
+ COPS5            COP9 constitutive photomorphogenic homolog subunit 5
+PubMed References
+PubMed References
+ COX1             Cyclooxygenase 1
+PubMed References
+PubMed References
+ COX2             Cyclooxygenase 2
+PubMed References
+PubMed References
+ CRABP2           Cellular Retinoic Acid Binding Protein 2
+PubMed References
+PubMed References
+ CRNN             Cornulin
+PubMed References	PubMed References
+ CRYAB            Crystallin, alpha B
+PubMed References
+PubMed References
+ CSF1R            Colony stimulating factor 1 receptor
+PubMed References
+PubMed References
+ CSMD1            CUB and Sushi multiple domains 1
+PubMed References
+PubMed References
+ CSTA             Cystatin A (stefin A)
+PubMed References	PubMed References
+ CSTB             Cystatin B (stefin B)
+PubMed References
+PubMed References
+ CTLA4            cytotoxic T-lymphocyte-associated protein 4
+PubMed References
+PubMed References
+ CTNNBIP1         Beta catenin
+PubMed References
+PubMed References
+ CTNND1           Catenin, delta 1
+PubMed References
+PubMed References
+ CTSB             Cathepsin B
+PubMed References
+PubMed References
+ CTSD             Cathepsin D
+PubMed References
+PubMed References
+ CTTN             Cortactin
+PubMed references
+PubMed references
+ CXCR4            Chemokine (C-X-C motif) receptor 4
+PubMed References
+PubMed References
+ CYLD             Cylindromatosis (tubban tumor syndrome)
+PubMed References
+PubMed References
+ CYP1A1           Cytochrome p450 1A1
+PubMed References
+PubMed References
+ CYP2D6           Cytochrome p450 2D6
+PubMed References
+PubMed References
+ CYP2E1           Cytochrome P450, family 2, subfamily E, polypeptide 1
+PubMed References
+PubMed References
+ CYP3A5P2         Cytochrome P450, family 3, subfamily A, polypeptide 5
+PubMed References
+PubMed References
+ CYPA             (Cyclophilin A) Peptidylprolyl isomerase A
+PubMed References
+PubMed References
+ DBC1             Deleted in bladder cancer 1
+PubMed References
+PubMed References
+ DBI              Diazepam binding inhibitor
+PubMed References
+PubMed References
+ DCC              Deleted in colorectal carcinoma
+PubMed References	PubMed References
+ DCN              Decorin
+PubMed References
+PubMed References
+ DCUN1D1          Defective in cullin neddylation 1, domain 1
+PubMed References	PubMed References
+ DEFA1            Defensin, alpha1
+PubMed References
+PubMed References
+ DEFA3            Defensin, alpha3
+PunMed References
+PunMed References
+ DNASE1L3         Deoxyribonuclease I-like 3
+PubMed References
+PubMed References
+ DOC1             CDK2-associated protein 1
+PubMed References
+PubMed References
+ DSG1             Desmoglein 1
+PubMed References
+PubMed References
+ DSG3             Desmoglein 3 (pemphigus vulgaris antigen)
+PubMed References
+PubMed References
+ DSP              Desmoplakin
+PubMed References
+PubMed References
+ DZIP1            DAZ interacting protein 1
+PubMed References
+PubMed References
+ E2F1             Regulator of p16-cyclin D-Rb pathway
+PubMed References
+PubMed References
+ EGFR             Epidermal growth factor receptor
+PubMed References
+
+PubMed References
+
+ EEF1A1           Eukaryotic translation elongation factor 1 alpha 1
+PubMed References	PubMed References
+ EIF4E            Eukaryotic translation initiation factor 4E
+PubMed References
+PubMed References
+ ENO1             Enolase 1
+PubMed References
+PubMed References
+ EPHB4            Epoxide hydroxylase 1
+PubMed References
+PubMed References
+ EPHX1            Human microsomal expoxide hydrolase
+PubMed References
+PubMed References
+ EPLIN            Epithelial protein lost in neoplasm
+PubMed References
+PubMed References
+ ErbB2            Erythroblastic leukemia viral oncogene homolog 2
+PubMed References
+
+PubMed References
+
+ ERBB4            v-erb-a erythroblastic leukemia viral oncogene homolog 4
+PubMed References
+PubMed References
+ ETS1             Erythroblastosis virus E26 oncogene homolog
+PubMed References
+PubMed References
+ ETV4             ets variant gene 4 (E1A enhancer binding protein, E1AF)
+PubMed References
+PubMed References
+ FABP5            Fatty acid binding prtein-5
+PubMed References
+PubMed References
+ FAT              FAT tumor suppressor homolog (Cadherin 7)
+PubMed References
+PubMed References
+ FGF3             Fibroblast growth factor 3
+PubMed References
+
+PubMed References
+
+ FGF4             Fibroblast growth factor 4
+PubMed References
+PubMed References
+ FGG              Fibrinogen, gamma polypeptide
+PubMed References
+PubMed References
+ FHIT             Fragile histidine triad gene
+PubMed References
+PubMed References
+ FN1              Fibronectin
+PubMed References	PubMed References
+ FOS              v-fos FBJ murine osteosarcoma viral oncogene homolog
+PubMed References
+PubMed References
+ FSCN1            fascin homolog 1, actin-bundling protein
+PubMed References
+PubMed References
+ FXYD3            FXDY domain-containing ion transport regulator 3
+PubMed References
+PubMed References
+ FYB              FYN binding protein
+PubMed References
+PubMed References
+ FYN              FYN Oncogene related to SRC, FGR, YES
+PubMed References
+PubMed References
+ GAL7             Galectin 7
+PubMed References
+PubMed References
+ GAPD             Glyceraldehyde-3-phosphate dehydrogenase
+PubMed References
+PubMed References
+ GJB2             Gap junction protein (connexin)
+PubMed References
+PubMed References
+ GNLY             Granulysin                                        
+PubMed References
+PubMed References
+ GPX3             Glutathione peroxidase 3 (plasma)
+PubMed References
+PubMed References
+ GSK3B            Glycogen synthase kinase-3 beta
+PubMed References
+PubMed References
+ GSTM1            Glutathione S-transferase
+PubMed References
+PubMed References
+ GSTM3            Glutathione S-transferase M3
+PubMed References
+PubMed References
+ GSTP1            Glutathione S-transferase pi
+PubMed References
+PubMed References
+ GSTT1            Glutathione S-transferase
+PubMed References
+PubMed References
+ H3F3A            H3 histone, family 3A
+PubMed References
+PubMed References
+ HBA1             Hemoglobin, alpha 1
+PubMed References
+PubMed References
+ HBB              Hemoglobin, beta
+PubMed References
+PubMed References
+ HCAM             CD44 cell adhesion molecule
+PubMed References
+PubMed References
+ HEC              NDC 80 homolog, Kinetocore complex component(S.cerevisiae)
+PubMed References
+PubMed References
+ HEXA             Hexosaminidase A (alpha polypeptide)
+PubMed References
+PubMed References
+ HGF              Hepatocyte growth factor
+PubMed References
+PubMed References
+ HIF1A            Hypoxia-inducible factor-1 alpha
+PubMed References
+PubMed References
+ HINT1            Histidine triad nucleotide-binding protein 1
+PubMed References	PubMed References
+ HIST4H4          Histone cluster 4, H4
+PubMed References
+PubMed References
+ HMG2            High mobility group AT-hook 2
+PubMed References
+PubMed References
+ HMMR             Hyaluronan-mediated motility receptor
+PubMed References	PubMed References
+ HOP              Homeodomain-only protein
+PubMed References
+PubMed References
+ HOXA1            homeobox A1
+PubMed References
+PubMed References
+ HPGD             Hydroxyprostaglandin dehydrogenase 15-(NAD)
+PubMed References
+PubMed References
+ HRAS             v-Ha-ras Harvey rat sarcoma viral oncogene homolog
+PubMed References
+PubMed References
+ HSPA1A           Heat shock protein 70kD
+PubMed References
+PubMed References
+ HSPB1            Heat shock 27kDa protein 1
+PubMed References
+PubMed References
+ HSPCB            Heat shock 90kDa protein 1, beta
+PubMed References
+PubMed References
+ HSPD1            Heat shock 60kDa protein 1 (chaperonin)
+PubMed References
+PubMed References
+ ICAM1            Intercellular cell adhesion molecule 1
+PubMed References
+PubMed References
+ ID1              Id protein 1
+PubMed References
+PubMed References
+ ID2              Id protein 2
+PubMed References
+PubMed References
+ ID3              Id protein 3
+PubMed References
+PubMed References
+ ID4              Inhibitor of DNA binding 4
+PubMed References
+PubMed References
+ IFI44            Interferon-induced protein 44
+PubMed References
+PubMed References
+ IFITM1           Interferon induced transmembrane protein 1
+PubMed References
+PubMed References
+ IGF2R            Insulin-like growth factor receptor
+PubMed References
+PubMed References
+ IGFBP7           Insulin-like growth factor binding protein 7
+PubMed References
+PubMed References
+ IGKC             Immunoglobulin kappa constant
+PubMed References
+PubMed References
+ IGLJ3            Immunoglobulin lambda joining 3
+PubMed References
+PubMed References
+ IK               IK cytokine, down-regulator of HLAII
+PubMed References
+PubMed References
+ IL4R             Interleukin 4 receptor
+PubMed References
+PubMed References
+ IL8              InterLeukine-8
+PubMed References
+PubMed References
+ IL8RB            Interleukin 8 receptor, beta
+PubMed References
+PubMed References
+ IL13RA2          Interleukin 13 receptor, alpha 2
+PubMed References
+PubMed References
+ ING1             Inhibitor of growth family
+PubMed References
+PubMed References
+ INHBA            Inhibitin, beta A/Activin A
+PubMed References
+PubMed References
+ ITGA5            Integrin alpha 5
+PubMed References
+PubMed References
+ ITGB4            Integrin beta 4
+PubMed References
+PubMed References
+ IVL              Involucrin
+PubMed References
+PubMed References
+ JUN              Jun oncogene
+PubMed References
+PubMed References
+ KAI1             Kangai 1
+PubMed References
+PubMed References
+ KIAA0746         Hypothetical protein
+PubMed References
+PubMed References
+ KIFAP3           kinesin-associated protein 3
+PubMed References
+PubMed References
+ KLK8             Kallikrein 8
+PubMed References	PubMed References
+ KRT1             Keratin 1
+PubMed References	PubMed References
+ KRT3             Keratin 3
+PubMed References	PubMed References
+ KRT4             Keratin 4
+PubMed References	PubMed References
+ KRT5             Keratin 5
+PubMed References
+PubMed References
+ KRT6A            Keratin 6A
+PubMed References	PubMed References
+ KRT6B            Keratin 6B
+PubMed References	PubMed References
+ KRT8             Keratin 8
+PubMed References	PubMed References
+ KRT9             Keratin 9
+PubMed References
+PubMed References
+ KRT10            Keratin 10
+PubMed References
+PubMed References
+ KRT13            Keratin 13
+PubMed References
+PubMed References
+ KRT14            Keratin 14
+PubMed References
+PubMed References
+ KRT16            Keratin 16
+PubMed References
+PubMed References
+ KRT17            Keratin 17
+PubMed References
+PubMed References
+ KRT18            Keratin 18
+PubMed References	PubMed References
+ KRT19            Keratin 19
+PubMed References
+PubMed References
+ LAMA5            Laminin, alpha 5
+PubMed References
+PubMed References
+ LAMC2            Laminin, gamma 2
+PubMed References
+PubMed References
+ LAMR1            Laminin receptor 1
+PubMed References
+PubMed References
+ LDHA             Lactate dehydrogenase A
+PubMed References
+PubMed References
+ LDHB             Lactate dehydrogenase B
+PubMed References	PubMed References
+ LEPR             Leptin receptor
+PubMed References
+PubMed References
+ LGALS1           Lectin, galactoside-binding 1 (galectin 1)
+PubMed References
+PubMed References
+ LRP12            Low density lipoprotein related protein
+PubMed References
+PubMed References
+ LYN              v-yes-1 Yamagushi sarcoma viral related oncogene homolog
+PubMed References
+PubMed References
+ MAL              Myelin and lymphocyte protein (T-cell differen protein)
+PubMed References
+PubMed References
+ MAPRE1           Microtubule-associated protein, RP/EB family, member 1
+PubMed References
+PubMed References
+ MAOB             Monoamine oxidase B
+PubMed References
+PubMed References
+ MCM2             Minichromosome maintenacnce complex component 2
+PubMed References
+PubMed References
+ MCTP1            Multiple C2-domains with two transmembrane regions 1
+PubMed References
+PubMed References
+ MDM2             Murine double minute gene 2
+PubMed References
+PubMed References
+ MECT1            Mucoepidermoid carcinoma translocated 1
+PubMed References	PubMed References
+ MET              MET protponcogene
+PubMed References
+PubMed References
+ MFAP4            Microfibril-associated glycoprotein 4
+PubMed References	PubMed References
+ MGMT             O-6-methylguanine-DNA methyltransferase
+PubMed References
+PubMed References
+ MICA             MHC class I polypeptide-related sequence A
+PubMed References
+PubMed References
+ MKI67            Antigen identified by monoclonal antibody Ki-67
+PubMed References
+PubMed References
+ MMP1             Matrix metallo peptidase 1
+PubMed References
+PubMed References
+ MMP10            Stromelysin-2
+PubMed References
+PubMed References
+ MMP11            Stromelysin-3
+PubMed References
+PubMed References
+ MMP14            MTI-MMP
+PubMed References
+PubMed References
+ MMP2             Matrix metallopeptidase 2
+PubMed References
+PubMed References
+ MMP3             Stromelysin-1
+PubMed References
+PubMed References
+ MMP7             Matrilysin
+PubMed References
+PubMed References
+ MMP9             Matrix metalloprotein 9
+PubMed References
+PubMed References
+ MPP11            M-phase phosphoprotein 11
+PubMed References
+PubMed References
+ MRPL13           Mitochondrial ribosomal protein L13
+PubMed References
+PubMed References
+ MSH2             mutS homolog 2, colon cancer, nonpolyposis type 1
+PubMed References
+PubMed References
+ MSN              Moesin
+PubMed References
+PubMed References
+ MST1R            Macrophage stimulating 1 receptor
+PubMed References
+PubMed References
+ MUC1             Mucin 1, transmembrane
+PubMed References
+PubMed References
+ MYC              Myelocytomatosis viral oncogene homolog
+PubMed References
+PubMed References
+ MYH1             Myosin heavy chain 1, skeletal muscle
+PubMed References
+PubMed References
+ MYL1             Myosin light chain 1
+PubMed References
+PubMed References
+ NCAM             Neural cell adhesion molecule
+PubMed References
+PubMed References
+ NDPK             Nucleoside diphosphate kinase
+PubMed References
+PubMed References
+ NDRG1            N-myc downstream regulated gene 1
+PubMed References
+PubMed References
+ NFE2L2           Nuclear factor (erythroid derived 2)
+PubMed References
+PubMed References
+ NMU              Neuromedin U
+PubMed References
+PubMed References
+ NOSII            Nitric oxide synthase type II
+PubMed References
+PubMed References
+ NPM1             Nucleophosmin (nucleolar phosphoprotein B23, numatrin)
+PubMed References
+PubMed References
+ NPR3             Natriuretic peptide receptor C/guanylate cyclase C
+PubMed References
+PubMed References
+ NRAS             Neuroblastoma RAS viral oncogene homolog
+PubMed References
+PubMed References
+ NRG1             Neuregulin 1
+PubMed References
+PubMed References
+ OGG1             8-Oxyguanine DNA glyosylase
+PubMed References
+PubMed References
+ ORAOV1           Oral cancer overexpressed 1
+PubMed References
+PubMed References
+ P11              26 serine protease
+PubMed References
+PubMed References
+ p15              Cyclin-dependent kinase inhibitor 2B
+PubMed References
+PubMed References
+ p16              Cyclin-dependent kinase inhibitor 2A
+PubMed References
+PubMed References
+ P21              Cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+PubMed References
+PubMed References
+ P27              Cyclin-dependent kinase inhibitor 1B (p27, kip1)
+PubMed References
+
+PubMed References
+
+ P34CDC2          p34 protein kinase, cell division cycle 2
+PubMed References
+PubMed References
+ p53              Tumor protein p53 (Li-Fraumeni syndrome)
+PubMed References
+PubMed References
+ P63              Cytoskeleton-associated protein 4
+PubMed References
+PubMed References
+ PAPSS2           3'-phosphoadenosine 5'-phosphosulfate synthase 2
+PubMed References
+PubMedReferences                             
+ PAX              Paxillin
+PubMed References
+PubMed References
+ PCNA             Proliferating cell nuclear antigen
+PubMed References
+PubMed References
+ PDGFA            Platelet-derived growth factor A
+PubMed References
+PubMed References
+ PDGFB            Platelet-derived growth factor beta polypeptide
+PubMed References
+PubMed References
+ PEBP1            Phosphatidylethanolamine-binding protein 1
+PubMed References	PubMed References
+ PECAM1           Platelet-endothelial cell adhesion molecule 1
+PubMed References
+PubMed References
+ PEG3             Paternally expressed 3
+PubMed References
+PubMed References
+ PFN1             Profilin-1
+PubMed References	PubMed References
+ PGAM1            Phosphoglycerate Mutase 1
+PubMed References
+PubMed References
+ PHB              Prohibitin
+PubMed References
+PubMed References
+ PIK3CA           phosphoinositide-3-kinase, catalytic, alpha polypeptide
+PubMed References
+PubMed References
+ PIM1             Pim1 Oncogene
+Pubmed References
+Pubmed References
+ PIN1             Prolyl isomerase 1
+PubMed References
+PubMed References
+ PKM2             Pyruvate kinase, muscle
+PubMed References
+PubMed References
+ PKP3             Plakophilin
+PubMed References
+PubMed References
+ PLAG             Pleiomorphic adenoma gene 1
+PubMed References
+PubMed References
+ PLAU             Plasminogen activator, urokinase
+PubMed References
+PubMed References
+ PLCG1            Phospholipase C gamma 1
+PubMed References
+PubMed References
+ PLEC1            Plectin 1
+PubMed References
+PubMed References
+ PLK              Polo-like Kinase 1
+PubMed References
+PubMed References
+ PLS1             Plastin1
+PubMed References	PubMed References
+ POSTN            Periostin, Osteoblast specific factor
+PubMed References
+PubMed References
+ PPP1CA           protein phosphatase 1, catalytic subunit, alpha isoform
+PubMed References
+PubMed References
+ PPP1R3C          Protein phosphatase 1
+PubMed References
+PubMed References
+ PRDX1            Peroxiredoxin 1
+PubMed References
+PubMed References
+ PRDX2            Peroxiredoxin 2
+PubMed References
+PubMed References
+ PRDX3            Peroxiredoxin 3
+PubMed References
+PubMed References
+ PRDX4            Thioredoxin peroxidase
+PubMed References
+PubMed References
+ PSME1            Proteosome (prosome, macropain) activator subunit 1
+PubMed References	PubMed References
+ PTEN             Phosphate and tensin homolog
+PubMed References
+PubMed References
+ PTHLH            parathyroid hormone-like hormone
+PubMed References
+PubMed References
+ PTPN13           Fas-associated phosphatase-1
+PubMed References
+PubMed References
+ PTMA             Prothymosin, alpha
+PubMed References	PubMed References
+ RAB1A            Member of RAS oncogene family
+PubMed References
+PubMed References
+ RARB             Retinoic acid receptor, beta
+PubMed References
+PubMed References
+ Rb               Retinoblastoma 1 (including osteosarcoma)
+PubMed References
+
+PubMed References
+
+ REL              V-REL Reticuloendotheliosis viral oncogene homolog
+PubMed References
+PubMed References
+ RIN1             RAS and RAB interactor 1
+PubMed References
+PubMed References
+ RRAS             Related RAS viral (r-ras) oncogene homolog 2
+PubMed References
+PubMed References
+ S100A2           S100 Calcium binding protein A2
+PubMed References	PubMed References
+ S100A4           S100 calcium binding protein A4
+PubMed References
+PubMed References
+ S100A7           S100 calcium-binding protein A7 (psoriasin 1)
+PubMed References
+PubMed References
+ S100A9           S100 calcium binding protein A9 (calgranulin B)
+PubMed References
+PubMed References
+ S100A11          S100 calcium binding protein A11
+PubMed References
+PubMed References
+ S100P            S100 calcium binding protein P
+PubMed References
+PubMed References
+ SCEL             Sciellin
+PubMed References
+PubMed References
+ SDC1             Syndecan 1                                                    
+PubMed References
+PubMed References
+ SERPINB5         Serpin peptidase inhibitor, clade B {ovalalbubin}, member 5
+PubMed References	PubMed References
+ SERPINB13        serpin peptidase inhibitor, clade B (ovalbumin), member 13
+PubMed References	PubMed References
+ SERPINE1         Serpin peptidase inhibitor, clade E
+PubMed References
+PubMed References
+ SFN              Stratifin
+PubMed References
+PubMed References
+ SHANK2           SH3/ankyrin domain gene2
+PubMed References
+PubMed References
+ SHH              Sonic hedgehog
+PubMed References
+PubMed References
+ SIP1             survival of motor neuron protein interacting protein 1
+PubMed References
+PubMed References
+ SKIL             SKI like
+PubMed References
+PubMed References
+ SKP2             S-phase kinase associated protein 2
+PubMed References
+PubMed References
+ SLC2A1           Solute carrier family 2, member 1
+PubMed References	PubMed References
+ SLC39A8          Solute carrier family 39 (zinc transporter)
+PubMed References
+PubMed References
+ SMARCA4          SWI/SNF related, actin dependent regulator of chromatin
+PubMed References
+PubMed References
+ SNAI1            Snail homolog 1
+PubMed References
+PubMed References
+ SNX4             Sorting nexin
+PubMed References	PubMed References
+ SOD2             Superoxide dismutase 2, mitochondrial
+PubMed References
+PubMed References
+ SPARC            Secreted protein, acidic,cysteine-rich
+PubMed References
+PubMed References
+ SPHK1            Sphingosine Kinase 1
+PubMed References
+PubMed References
+ SPINK5           Serine Peptidase Inhibitor, Kazal type 5
+PubMed References
+PubMed References
+ SPRR2A           Small proline-rich protein 2A
+PubMed References
+PubMed References
+ SPRR3            Small proline-rich protein 3
+PubMed References
+PubMed References
+ SPTBN1           Spectrin, beta, non-erythrocytic 1
+PubMed References	PubMed References
+ SRI              Sorcin
+PubMed References	PubMed References
+ STAG2            Stromal antigen 2
+PubMed References
+PubMed References
+ STAT3            Signal transducers and activators of transcription 3
+PubMed References
+
+PubMed References
+
+ STAT5B           Signal transducer and activator of transcription 5B
+PubMed References
+PubMed References
+ TACSTD1          Tumor Associated Calcium Signal TransDucer 1
+PubMed References
+PubMed References
+ TAl1             T-cell acute lymphocytic leukemia 1
+PubMed References
+PubMed References
+ TAGLN            Transgelin
+PubMed References	PubMed References
+ TCF20            Transcription factor 20 (AR1)
+PubMed References
+PubMed References
+ TERT             Telomerase
+PubMed References
+PubMed References
+ TGFA             Transforming growth factor alpha
+PubMed References
+PubMed References
+ TGFB1            Transforming growth factor beta 1
+PubMed References
+PubMed References
+ TGFB2            Transforming growth factor BETA 2
+PubMed References
+PubMed References
+ TGM3             Transglutaminase 3
+PubMed References
+PubMed References
+ TIAM1            T-cell lymphoma invasion and metastasis
+PubMed References
+PubMed References
+ TIMP1            Tissue inhibitor of metalloproteinase 1
+PubMed References
+PubMed References
+ TIMP2            Tissue inhibitor of metalloproteinase 2
+PubMed References
+PubMed References
+ TIMP3            Tissue inhibitor of MMP-3
+PubMed References
+PubMed References
+ TK1              Thymidine Kinase 1
+PubMed References
+PubMed References
+ TNFRSF10A        Tumor necrosis factor receptor superfamily 10a
+PubMed References
+PubMed References
+ TNFRSF10B        Tumor necrosis factor receptor superfamily 10b
+PubMed References
+PubMed References
+ TNFRSF6          Tumor necrosis factor receptor superfamily 6
+PubMed References
+PubMed References
+ TNFSF6           Fas ligand
+PubMed References
+PubMed References
+ TNNT1            Troponin T
+PubMed References	PubMed References
+ TNR              Tenascin R (restrictin, janusin)
+PubMed References
+PubMed References
+ TPI1             Triosephosphate isomerase 1
+PubMed References
+PubMed References
+ TPM1             Tropomyosin 1 (alpha)
+PubMed References
+PubMed References
+ TPM2             Tropomyosin 2 (beta)
+PubMed References
+PubMed References
+ TPT1             Tumor protein, translationally-controlled 1
+PubMed References
+PubMed References
+ TRL2             tRNA leucine 2
+PubMed References
+PubMed References
+ TSPAN2           Tetraspanin 2
+PubMed References
+PubMed References
+ TUB              Tubulin
+PubMed References	PubMed References
+ TUBB2C           Tubulin, beta 2C
+PubMed References	PubMed References
+ TYMP             Thymidine Phosphorylase
+PubMed References
+PubMed References
+ UBE2C            Ubiquitin-conjucating enzyme E2C
+PubMed References
+PubMed References
+ UBD              Ubiquitin D
+PubMed References
+PubMed References
+ UCHL1            Ubiquitin carboxyl-terminal esterase L1
+PubMed References	PubMed References
+ UCP2             Uncoupling protein 2
+PubMed References
+PubMed References
+ USF1             upstream transcription facto
+PubMed References
+PubMed References
+ VCAN             Versican
+PubMed References
+PubMed References
+ VDAC2            Voltage-dependent anion channel 2
+PubMed References
+PubMed References
+ VEGFA            Vascular endothelial growth factor A
+PubMed References
+PubMed References
+ VEGFB            Vascular endothelial growth factor B
+PubMed References
+PubMed References
+ VEGFC            Vascular endothelial growth factor C
+PubMed References
+PubMed References
+ VIM              Vimentin
+PubMed References
+PubMed References
+ WIF1             WNT inhibitory factor 1
+PubMed References
+PubMed References
+ WISP2            WNT inducible signaling pathway protein 2
+PubMed References	PubMed References
+ WNT14            Wingless-type MMTV integration site family, member 14
+PubMed References	PubMed References
+ WNT5A            Wingless-type MMTV integration site family, member 5
+PubMed References
+PubMed References
+ WT1              Wilms tumor 1
+PubMed References
+PubMed References
+ XIAP             X-chromosome linked inhibitor of apoptosis protein
+PubMed References
+PubMed References
+ XPC              DNA repair gene
+PubMed References
+PubMed References
+ XRCC1            XRCC1
+PubMed References
+PubMed References
+ YWHAZ            tyrosine 3-monooxygenase zeta polypeptide)
+PubMed References
+PubMed References
+ ZAP70            Zeta chain (part of the receptor of T-cells
+PubMed References
+PubMed References
+ ZNF273           Zinc finger protein 273
+PubMed References
+PubMed References
+ 
