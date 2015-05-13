@@ -32,13 +32,14 @@ uniqeIds <-function(d){
 library(xlsx)
 # reading function
 setwd("/Users/naru/Documents/R_workshop/UTRClassify/data")
-houseKeepingGenes <- read.table("HK5UTR.xls", sep="\t",header=TRUE)
+houseKeepingGenes <- read.table("OCGeneCoding.xls", sep="\t",header=TRUE)
 head(houseKeepingGenes)
+houseKeepingGenes
 #converting as matrix 
 data = as.matrix(houseKeepingGenes)
 data
 #normlizing data 
-normlizeData<- t(apply(houseKeepingGenes[,][3:length(file[1,])], 1, function(x)(x-min(x))/(max(x)-min(x))))
+normlizeData<- t(apply(houseKeepingGenes[,][3:length(houseKeepingGenes[1,])], 1, function(x)(x-min(x))/(max(x)-min(x))))
 
 #name rows as UTRids
 rownames(normlizeData) <-houseKeepingGenes[,1]
@@ -48,25 +49,25 @@ transform_matrix<-t(normlizeData)
 #give columns name using UTR ids 
 #colnames(transform_matrix) <- file[,1]
 cosineData <- cosine(transform_matrix)
-
+cosineData
 out <- data.frame(X1 = rownames(cosineData)[-1],X2 = head(colnames(cosineData), -1),Value = cosineData[row(cosineData) == col(cosineData) + 1])
-out
+head(out)
 # converting matrix into dataframe 
 cosineData <-as.data.frame(as.table(cosineData))
-cosineData
+head(cosineData)
 
 
 
-filterCosineDataSameId<-filter(cosineData, Var1 == Var2 & Freq == 1.0000000)
+filterCosineDataSameId<-filter(cosineData, Var1 == Var2 & Freq >= 0.999)
 filterCosineDataSameId
-filterCosineDataDiffrentId<-filter(cosineData, Var1 != Var2 & Freq == 1.0000000)
+filterCosineDataDiffrentId<-filter(cosineData, Var1 != Var2 & Freq >=0.999)
 filterCosineDataDiffrentId
-filterCosineDataWithSameFreq<-filter(cosineData,  Freq == 1.0000000)
+filterCosineDataWithSameFreq<-filter(cosineData,  Freq >= 0.999)
 d <-filterCosineDataWithSameFreq
 
 result<-uniqeIds(d)
 result
-
-
-
+output<-houseKeepingGenes[houseKeepingGenes$UTR_ID %in% result, ]
+output
+write.csv(file="OCGeneCodingWithoutDupliacates.csv", output)
 
