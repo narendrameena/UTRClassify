@@ -5,7 +5,10 @@ options(download.file.method="wget")
 # lloding cosine fucntion library in session 
 library(lsa)
 library(dplyr)
-
+library(doParallel)
+library(plyr)
+#install.packages("doMC")
+library(doMC)
 
 uniqeIds <-function(d){
   #local variables
@@ -32,7 +35,7 @@ uniqeIds <-function(d){
 library(xlsx)
 # reading function
 setwd("/Users/naru/Documents/R_workshop/UTRClassify/data")
-houseKeepingGenes <- read.table("OCGeneCoding.xls", sep="\t",header=TRUE)
+houseKeepingGenes <- read.table("HK5UTR.xls", sep="\t",header=TRUE)
 head(houseKeepingGenes)
 houseKeepingGenes
 #converting as matrix 
@@ -46,28 +49,38 @@ rownames(normlizeData) <-houseKeepingGenes[,1]
 #transform row into columes for cosine calculation 
 transform_matrix<-t(normlizeData)
 
+as.list(colnames(transform_matrix))
+# setting parallel cluster 
+doMC::registerDoMC(cores=4) 
 #give columns name using UTR ids 
 #colnames(transform_matrix) <- file[,1]
-cosineData <- cosine(transform_matrix)
-cosineData
-out <- data.frame(X1 = rownames(cosineData)[-1],X2 = head(colnames(cosineData), -1),Value = cosineData[row(cosineData) == col(cosineData) + 1])
-head(out)
-# converting matrix into dataframe 
-cosineData <-as.data.frame(as.table(cosineData))
-head(cosineData)
+# cosineData <- ddply(transform_matrix, cosine(transform_matrix), .parallel = TRUE)  # parallel
+# #cosineData <- cosine(transform_matrix)
+# cosineData
+# #out <- data.frame(X1 = rownames(cosineData)[-1],X2 = head(colnames(cosineData), -1),Value = cosineData[row(cosineData) == col(cosineData) + 1])
+# #head(out)
+# # converting matrix into dataframe 
+# 
+# cosineData <-as.data.frame(as.table(cosineData))
+# head(cosineData)
+# 
+# 
+# 
+# #filterCosineDataSameId<-filter(cosineData, Var1 == Var2 & Freq >= 0.999)
+# #filterCosineDataSameId
+# #filterCosineDataDiffrentId<-filter(cosineData, Var1 != Var2 & Freq >=0.999)
+# #filterCosineDataDiffrentId
+# filterCosineDataWithSameFreq <- ddply(cosineData, filter(cosineData,  Freq >= 0.999), .parallel = TRUE) # parallel
+# #filterCosineDataWithSameFreq<-filter(cosineData,  Freq >= 0.999)
+# d <-filterCosineDataWithSameFreq
+# 
+# 
+# result <- ddply(d,uniqeIds(d), .parallel = TRUE)
+# #result<-uniqeIds(d)
+# result
+# output <- ddply(result,houseKeepingGenes[houseKeepingGenes$UTR_ID %in% result, ], .parallel = TRUE)  # parallel
+# #output<-houseKeepingGenes[houseKeepingGenes$UTR_ID %in% result, ]
+# output
+# #write.csv(file="HK5UTRWithoutDupliacates.csv", output)
 
-
-
-filterCosineDataSameId<-filter(cosineData, Var1 == Var2 & Freq >= 0.999)
-filterCosineDataSameId
-filterCosineDataDiffrentId<-filter(cosineData, Var1 != Var2 & Freq >=0.999)
-filterCosineDataDiffrentId
-filterCosineDataWithSameFreq<-filter(cosineData,  Freq >= 0.999)
-d <-filterCosineDataWithSameFreq
-
-result<-uniqeIds(d)
-result
-output<-houseKeepingGenes[houseKeepingGenes$UTR_ID %in% result, ]
-output
-write.csv(file="OCGeneCodingWithoutDupliacates.csv", output)
-
+write.csv(file="HK5UTRWithoutDupliacates.csv", houseKeepingGenes[houseKeepingGenes$UTR_ID %in% uniqeIds(filter(as.data.frame(as.table(cosine(transform_matrix))),  Freq >= 0.999)), ])
