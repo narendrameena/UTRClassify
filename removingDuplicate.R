@@ -35,7 +35,7 @@ uniqeIds <-function(d){
 library(xlsx)
 # reading function
 setwd("/Users/naru/Documents/R_workshop/UTRClassify/data")
-houseKeepingGenes <- read.table("HK5UTR.xls", sep="\t",header=TRUE)
+houseKeepingGenes <- read.table("HK3UTR.xls", sep="\t",header=TRUE)
 head(houseKeepingGenes)
 houseKeepingGenes
 #converting as matrix 
@@ -83,4 +83,4 @@ doMC::registerDoMC(cores=4)
 # output
 # #write.csv(file="HK5UTRWithoutDupliacates.csv", output)
 
-write.csv(file="HK5UTRWithoutDupliacates.csv", houseKeepingGenes[houseKeepingGenes$UTR_ID %in% uniqeIds(filter(as.data.frame(as.table(cosine(transform_matrix))),  Freq >= 0.999)), ])
+write.csv(file="HK3UTRWithoutDupliacates.csv", houseKeepingGenes[houseKeepingGenes$UTR_ID %in% uniqeIds(filter(as.data.frame(as.table(cosine(transform_matrix))),  Freq >= 0.999)), ])

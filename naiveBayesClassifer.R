@@ -44,3 +44,33 @@ pred <- predict(model, testingData[,-1])
 table(pred, testingData$CLASS)
 
 
+# manually naive bayes classifier
+#nn2(trainingData, query = testingData, k = min(100, nrow(trainingData)), treetype = c("kd", "bd"),    searchtype = c("standard", "priority", "radius"), radius = 0, eps = 0)
+
+neighbour <- nn2(trainingData, query = testingData, k = min(100, nrow(trainingData)), treetype = "kd",searchtype = "standard",radius = 0, eps = 0)
+
+#adding classes name for classification
+
+
+for (i in 1:length(neighbour$nn.idx[,1])){
+  
+  # length(which(400 < neighbour$nn.idx[1,]))
+  
+  #  length(which(400 >= neighbour$nn.idx[1,]))
+  print(length(which(400 >= neighbour$nn.idx[i,])))
+  print(length(which(400 < neighbour$nn.idx[i,])))
+  onco <- (1/2)*(length(which(400 >= neighbour$nn.idx[i,]))/400)
+  house <-(1/2)*(length(which(400 < neighbour$nn.idx[i,]))/400)
+  print(onco)
+  print(house)
+  
+  if(house < onco){
+    print("oncoGene")}
+  if(house > onco){
+    print("houseKeepingGene")}
+  if(house == onco){
+    print("Equal")}
+}
+
+#length(neighbour$nn.idx[,1])
+
